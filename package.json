@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/cecceccu/pwa-pratique/issues"
   },
-  "homepage": "https://github.com/cecceccu/pwa-pratique#readme",
+  "homepage": "https://cecceccu.github.io/pwa-pratique/",
   "dependencies": {
     "web-push": "^3.4.5"
   }
